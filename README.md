@@ -16,4 +16,4 @@
 ## Stats
 ![GitHub Readme Stats][ReadmeStats-Image]
 
-[ReadmeStats-Image]: https://github-readme-stats.vercel.app/api?username=DancingSnow0517&show_icons=true&bg_color=ffffff "GitHub Readme Stats"
+[ReadmeStats-Image]: https://github-readme-stats.vercel.app/api?username=DancingSnow0517&show_icons=true&bg_color=ffffff&locale=cn "GitHub Readme Stats"
