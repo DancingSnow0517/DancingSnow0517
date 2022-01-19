@@ -8,7 +8,7 @@
 ## Used
 ![[Python] Python](https://img.shields.io/badge/-Python-339900?style=flat-square&logo=Python&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DancingSnow0517&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DancingSnow0517&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Disadvantages
 - I have not undergone systematic algorithm training, I need learn it;
