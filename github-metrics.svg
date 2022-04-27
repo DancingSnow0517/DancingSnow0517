@@ -2204,7 +2204,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>plusls/MagicLib</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A library for mod dependencies.</div>
@@ -2257,7 +2257,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>plusls/oh-my-minecraft-client</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">oh-my-minecraft-client</div>
@@ -2310,7 +2310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Fallen-Breath/fabric-mod-template</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2364,7 +2364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TWT233/khl.py</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Python SDK for kaiheila.cn API</div>
@@ -2554,14 +2554,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #E7890C">Your fortune: Good Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Apr 2022, 17:13:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 27 Apr 2022, 18:14:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
