@@ -153,11 +153,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="386.9734018101504" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="386.9734018101504" y="0" width="45.25800579028924" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="432.23140760043964" y="0" width="20.84718750856214" height="8" fill="#E22837"/>
-                    <rect mask="url(#languages-bar)" x="453.0785951090018" y="0" width="5.16112043010098" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.23971553910275" y="0" width="1.7602844608972819" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="386.77058571610047" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="386.77058571610047" y="0" width="45.4753756428698" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="432.24596135897025" y="0" width="20.836261317969623" height="8" fill="#E22837"/>
+                    <rect mask="url(#languages-bar)" x="453.0822226769399" y="0" width="5.1584154424153725" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.24063811935525" y="0" width="1.7593618806447222" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2187,7 +2187,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Nov 2022, 19:12:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 14 Nov 2022, 20:30:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
