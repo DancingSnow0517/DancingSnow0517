@@ -27,4 +27,7 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam_user: "76561198359285592"
 
