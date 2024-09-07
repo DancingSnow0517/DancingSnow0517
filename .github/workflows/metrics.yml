@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Metrics embed
-        uses: lowlighter/metrics@v3.22
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
