@@ -2439,15 +2439,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAABQYEBwECCAP/xAArEAABAwMDAgYCAwEAAAAAAAABAgMEAAURBhIhMUEHExQiUWEyQiRSoXH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAgAD/8QAHhEBAQACAgIDAAAAAAAAAAAAAQACESExAxIiUWH/2gAMAwEAAhEDEQA/AOVzx3zWB2B4r0bQp5xKWhlauAkUx27STkpP8mczFWOdjgOaQ31Ch3LISVKATyTTPZtCaguwSuNbng0ejhHBp20tp+xWl9LzsxmQ+PnkZ/5VjtXSTJbDUZAZZHAUjgf5R1NTyvCTUCWSvancP0xyaWrzo6/2dtT1wtr7TKf3I4rra0aTcdg+qcnKKiMgbjU5vStzciqWtlMpn+q07h/tSO+p1cOdOlZOO3arz8RvDqPcPUybK15FyZyp2P2WPhI7VRrqFNuLbcSUqQSlST1yOtVE2eHtoE+bJlOIKmoiPMwO/wBUxNWyUoSpqWy44chLXcDtQm1SXU6eRHhqCWUuKVlPClfRPxUZbd2cypLrqQOm0kbvqrMvjouZjvJybyfh3Fslx9lxoZznNFtFXK6L1DFiQHVq8xe3C8kUMaud3gqCwnfsOSlxO6nzSfiVa4Qc9daA3PWnaiQlICUH5qc11dMT9nlzVU2K8mG+5hse1W3jnvVjaT196RhLclxLrOMADtVGImMzHFPjjcd24nIOaKtYaj73CU9wM9a5HFS7mrWVzQq9mZGUlCVnIA/b6qivFy1MsXFu5RkBDUn27QMe4dTTxO1NHkyhF8sqUgcK/rS/4ghMvSza1EFTSioGugxDtAPQrZp6ZJnKC3XwW20H9SD1oszc4DjW1LiPmki2utzWAk8uA/gOBW09CmGVM8JW5xgdU/dPuvFOPjBX7rOscODOlNowh3J5xVgXrQempVsR6mKQ4R+hArl1cyXbX0emkOpWADncaedN+Ks+K0I9zJebHG7vUZCuys1Pg0ZHtb2ILi1NnqFqzx9UPviHpEV2M0sNuYwnNFbRrW1Tyn1EptTJGSlPCj9ZpDuV2dl6tW7GStLAOPLzyU9qDdqQiIIoSuQtDjnQqSMVtd45vGl5Qh8FgFSs85r3uSmnmnNxDbpTwT0FBJFyXpC3FlpxLzsrPmA8+3rSRVula0HKFFJ+jiicBt51Bkb1LUOOTmhdSoMxcYkD8D2qopsxsPHe4k5HxUeK3FQ9uknKfjNayLgtw+wAJqEo7jnvWtOEAoWz59qQB5ZyWyMk0BuV2lSbiZCleW4njCeMYrW0XWRa1rXF27lDHuGQKhOLU64tasblEqUa1qau8TXBhTuahPPuvq3POKWfs5rQ4rFa1//Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHQAAAQQDAQEAAAAAAAAAAAAACAAFBgcBBAkCA//EADEQAAEDBAAEBAMIAwAAAAAAAAECAwQABQYRBxIhMSJBUWETFHEIFSMyUmKRsUKBwf/EABgBAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAIxEAAgICAgIBBQAAAAAAAAAAAAECAwQREiEFMWEyM0FRcf/aAAwDAQACEQMRAD8AFXvWRWPOvSUlagBQC6CkrvVg2XELY5GSuZIDjikg8qVapyOHWU/4Og+66ySzK09Har8DlWR5dLfyVxBtsicCYyCsj0r4SY7sZ0tvoKV+hqw5OGMDZgylsL8hzGo/c8VuaFbKvmPcd6nDJrl6ZRd4jLp9x2vjsi+vesDvW3NgyYh1JZUj61qjp1q9Pa6OdKEoPUkLp23UitNpgGGJNykBvZ8KN6JqPK/aPCKn0WDFtPD9F4lDnny3FNMpX1Cddjqozi5LSei2iyNcuUo8v6M6HY0aQh23tynEpP6yQad1ZNcSAPu94a7eHvUq4c3+/Qbha2nrRDnRJjgbCEsJ5v5oxouK2R2Iyt21RkLUgKUktjYJHaoOiEvq7NEPJX1/afFP9AEqyyYlQLsJ0Ad/DX2YzRB8LiFJ9jR0XXELJ8jIW1Z4zjyUEpQG07NBRmGQO3XJX7TFsrMd1Lqmw2G0hR0ai8Wp/gtj5nLj3y2NN9uMO729wocQFoG0jz3UHPTuQauC0cO41zwG6XuQlTMiMFcqQdeIGqfUOVak+h1VldarWkZsvLllSU5rTPPl/wBoi8ow+FI+z1bLo88GpUZxS0D9fTtQ6fTtRs8CnIOdcF12Z8tF5PMgpWN8nbRqwyFd8DOH86NjsrLFSVPLZb5ozRJISoe1as7iZxVNqfcSyhiKh5aQ6truAaIPgxElW7GnrXcYwQph9xKfDpKkb6dKf8sw205NaTbp7JbY2VD4B5Op+lACXj3G3iFb5PM+2idHT+fka8qdMn4I3m+3FnIbdK+XbnAPL3vmSVdTo1e2D8G8fxO7vzY4cf8AiJCQh5XOka9jUvyGY2zG+VYCQe2kjQFAUVkdnbwrg7cYCXC4sNFS1E72T3oRFK5lKUe560T/ANpbI2oWPtWdlW35BIc6+RoXvf8AigEO1WJwW4jSeH+SIkKKlwHSEvtg+VV4AN6B/wB0hry7j1oDpNiOc45k8Vt60z2FLWAVIB0QfSpQpaEp5itIT6k1y6hXGZAUFwpb7Cgd/hrKf6qSo4jZShkN/ez5SB2Kzv8AugOgl4v7MVo/CcR07q2NCqYzzivY7DFkKYlolz9H8NJ6g0KlwzO/z0FL9xf5f2qIqPuuLcUVurUtR81HZoB3yrIJmSXZ6fPcKlKJ5UnyHkKZ+2vWl766Uu3vQH//2Q==" alt="" />
                             <div class="about">
-                                <div class="name">PUBG: BATTLEGROUNDS</div>
+                                <div class="name">Brotato</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Adventure, Massively Multiplayer, Free To Play
+                                        Action, Casual, Indie, RPG
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2455,7 +2455,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        379 hours played
+                                        7 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2463,7 +2463,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 3 Feb 2025
+                                        Last played on 6 Feb 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -2472,32 +2472,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            28 / 37 achievements unlocked
+                                            25 / 176 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAwYAAQQFB//EACsQAAICAQMBCAICAwAAAAAAAAECAwQRAAUSIQYTFDFBUWFiByIjMnKR0f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDlW1bTHYSIyo7815s3IqqKcgAe7HGfYacNm7GiXwhaOnUhsuqRT3pADLkgZRT+zDr6DB99TsXUhipeIsRd9Xo1TaeJ+okckBEP1LuuR7AjRnv3It68dacTXlkWRnlUNkghgPgdAMDyHQY0AN37HKqW2SOpbirlllmoyhjFgkZZR+yj5Ix86S992yGhHA0LSEuSpDHPkPPTwl64+8+NrMIbhdpVeEBeJJLHp6+owfMdDnQO3FSGeitmtCsMNuuLaRKMLFICQ6r9Qytj4YDQZ/433a34GWlQuzVZ71buI2jkKfzoQUGR5ZwUz99Dty7hve68pzPYuyFYiJCS4IwvE56jB9PTrpC2jdY6Nd45IncliRxIx1x/zT9tfbDbrVqrZ3WCG5Yhkjk7/vTBYPFgRzP9XPTzIz9tAGCbcNn3Ju4M1a2vKLEbFWOf1I6efX09emi/kTcLr0o6Ny3LZmoVDFMZJC+JmYs4z9eSqf8ADVX+123VLc8+1wwUrE0jv4gymxOvIknif6xnr5gZ9jrQpZp342hjnVualOOcN/o6D//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQYDAgT/xAAuEAABBAEDAQYEBwAAAAAAAAABAgMEBREABiESExQVMUFhIlFScSRCU2KBorH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwEEBf/EABwRAAICAwEBAAAAAAAAAAAAAAABAhEDEjFBIf/aAAwDAQACEQMRAD8Axtt3IiXzNPBr5NjOWQghtaG0JWpJUlBUsgdZSCQnWkncVjCH4/ae4GvdppDw/qrR3h0awnbj2/NWWJNk4izgyAcHKEJSSk/UhSQcfSo6oNm3z13AdRZJDd3BX3ae2P1B5LHsoc/fOrSV+mfqq4cUe4ItyX0MIksPsdPasSmS04gKHB6T6H56V6tBb0qpJUze0yAq3gpILecCUx5qaP8AqfkdemntY1vWsToS+pl0ZGfNJ9UkehB4Ooap0BKPqCtz170+E29XrDVrCX3iG78nB+U/tUOCPfQsGfIut40FjtNhvxmzadYmwn3Ozbw0nKw4rHwqSoDBxyCNVXWdTErbK0bo8eqJ4gTSnC8xkPJKuPjAVwFcDn20LtcGY5JfJD+4bTeFCkC22zCbSsHpW1atKyPUgKxqHp7SbD3hFESu7GLbKUZEdMxl8BSRy8AhR6DjzzwfvqwkTd7PIW2reJcaWMKbdr21JV9wDoyopJsbcLlrYS4ch1UbuwTHiBgAdXVnAOMn1/jQ3N9GyeKnqf/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Agent 48</div>
-                                                <div class="unlocked">28 Oct 2024</div>
+                                                <div>Student</div>
+                                                <div class="unlocked">6 Feb 2025</div>
                                             </div>
-                                            <div class="description">Kill 50 players with suppressed weapons.</div>
+                                            <div class="description">Reach level 20</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAQQI/8QALhAAAgEDAwIDBwUBAAAAAAAAAQIDBAURABIhBjEHEyIUFVJhcZHRMkFCUXKB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AJTarVHUJEZUd9672bdtVFyQAP7Y4+g0ZgtdFT4UQRsfik9RP30d6WsNObPb3r71brfBNF5o8x2mlGSePLQEjnsCRxqs+GkPTM9BdOnILh7wmro98jSUZgYrtwwjZsk44YDuOTz+wQqe1UVQrBoERsfqj9JH20Bvtsht8cDQvIS5KkMc9hnOuguuehbD0/Zq6enW7GeKBHjmklQxeY0mxUIwCSeTwMADvqOXyFZ7bOnG5VLr8iOfzoM2WcT2unYHkLsb6jj8aJ0lRPSVUNTSTPDUQuHjkQ4KsOxGkyz3WOhgeOSN2JYsNpGOcfjTFS3OjqEBjqIwfhc7SP8Ah0F+6kv1PX+HFmud9s/t09SVnNPGp2+jJLk/wQ4Gf9Y51G+qup56yxXKlFttVLSSLuSKmphGYmBwGVgck4JBzkEHsNbK+I1dR2f3TU3CKa3+ySUaU5AwqsMBjt5YqO2eNLCVNHcEeGOdX3qVK5wxz8joP//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcFBP/EACoQAAIBAwQBAwMFAQAAAAAAAAECAwQFEQAGEjEhFEFRBzJhExUiYnHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDBP/EACIRAAEDAwMFAAAAAAAAAAAAAAEAAgMEESESEzEiIzJxwf/aAAwDAQACEQMRAD8A0breaC0oj3Gripw/28sknHZwPOB7noa64Z0nhSWGRZInUMrochgeiDqX79hqqLeltrqedStbH+kVZfMYjGSFP55A4+RpH9O6tXsL0fNHmop5IXCeFALFlwOwuGwM/B1UP6tKxvpwIGyg8myy9ybkuxv9fSW6tio/QsiJGyKRMSobLkgnj5xgY670y2/eFvFAZxE0EsbmKWJiDwcAE4I8EYIIPwdAfqbTxHc1hlFNFHMwkZqhlwZOIACZ9yMkjXVsaaY7nrkpi7Ua0q+qJ+wT5/hj+3DOf8GkDiJNK0vgjfSCUCxGPa2922b99tiwxyrDVQyCaCRlyA4yMH8EEg6mNTPNHJI7yVVqviRhXzI6ZRc8go6cYJwRnsHVg5nRze9trrzQ0dNbxThhUB3lmwTEoB8r/wBHvpnsvkcqVLU7fbcLtKmltm9TUwQU6zNUNMgp0lneWMyuOPM+fYBj8/nVj25ao7JbvTJM08jyNNLMwwZHbs49h4AA+BojLs6e3S0NRZa2onmhnR3SrmHDiD2AB4PYx8HTkv58daI2kZPKKqcSANZ4/V//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The First Rule Is…</div>
-                                                <div class="unlocked">7 Sept 2024</div>
+                                                <div>Robust</div>
+                                                <div class="unlocked">6 Feb 2025</div>
                                             </div>
-                                            <div class="description">Kill 20 players with bare hands.</div>
+                                            <div class="description">Reach 100 Max HP</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+26 others...</div>
+                                            <div class="description ellipsis">+23 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2508,7 +2508,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Feb 2025, 16:18:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Feb 2025, 17:14:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
