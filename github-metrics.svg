@@ -2459,7 +2459,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        7 hours played
+                                        8 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2476,32 +2476,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            34 / 176 achievements unlocked
+                                            38 / 176 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABgUABAf/xAApEAACAgIBAgUDBQAAAAAAAAABAgMEBREABhITITFBURVxkQciYXLB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECBP/EACERAAICAwABBQEAAAAAAAAAAAEDAhEABBIhE1FhcYHB/9oADAMBAAIRAxEAPwC+X0CSQAPMk8Lv1zi3nkjx8OSyYiPbJJQqPNGh/sPL8czrqvdu9OywY+Iz7dGngVyjzwg7eNW9iR5fnk6hJ1RkqUlzF5Ox0pQj2Mbiq8SqkSL6GUH1J157388Om0ERVG/knxnCpayOmHFOFzlDNQPLjrAlCHtkQgq8Z+GU+YP35Q7uDrGU+sx/p/1Z4S18rl/GpXxGNCdVVv3EfwybB9t64p7+NXYL19kUbIP2PGTYR6M+QbGaF27DSpz2rL9kEKGR21vSgbPD08uZ6ppvHToZDDYJk7reVuQMreEfUQxjbOzA6BHz7evKuTqxZHH2aVnu8GxGY37To6PxyeKXUCRRxQ9a52OONQiBSg0oGgPID2HJsh5jSK/f5m0FQNtw9J1PQ+vw2rFDJ0MFgq5p4yu1NyUUjTTSHWgx/wB50KOZZI0dDtWAYH5BGxwtew+ayFGelkOs87ZqTqUlikZSrqfUEHl+ECGGOJPJEUIv2A0ONRc1Q4kAK9jeXZnBkuonP//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYEB//EACsQAAEDAwMDAwMFAAAAAAAAAAECAwQABREGEiETMUEUYaEHJDNCUVJzgv/EABcBAQADAAAAAAAAAAAAAAAAAAIAAwX/xAAjEQACAQQABgMAAAAAAAAAAAABAgMABBEhEiIxQXHBYZHR/9oADAMBAAIRAxEAPwB1x1LaFLcUEoSCpSj2AHJNCM3q6TmW5Vn03OmQHBlp9b7Mcvp/k2hagpQPg4GaUKgoEKAKSMEHyK51eLFpWx+mhyLXKuUx9KyxufwpKEkcBalJShIyAKUxcDKEDzv2Kz4VQnDAnxV1aL9GuTz8bpyIlwj/AJ4UtstPNe5Se49xkUpuqC1BLVBtOgTNe9ROhvbZV6QsOR22Vbvt1PDIWcFI58jPmrULBAI5FC0uDcR8RHcj6p3MAhfAoLUd3ctUFtcWMZcx95EeOwFbeo4o8Ak9uxoKVqjS08Jb1CyzGmMcLi3KKeoyo9xgpPxT10hRrpBdhz2g9HcGFJPwQfBH70QbXf2ENtQtUOrYbGG03GE1MU2PAC1jOKchlB5ACPnX7UjERHOSDWXRrdrVd75doURUXQ5trjdwU8gtxpLv6A2g9yPb4zyp9P1SE6NtQl7up0uN/cI3HZn/ADisr9hlXZ1hzVd6mXoMHLcdYDUdJ/rTwaoQvAwO1VW8Lq7SyYy2NDpr3TnlVlCJ0Hc1/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Danger 2</div>
-                                                <div class="unlocked">6 Feb 2025</div>
+                                                <div>Danger 3</div>
+                                                <div class="unlocked">7 Feb 2025</div>
                                             </div>
-                                            <div class="description">Win a run in Danger 2</div>
+                                            <div class="description">Win a run in Danger 3</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwP/xAApEAACAgEEAgIBAwUAAAAAAAABAgMEBQAGESESMQcTQVFhcRQiMrHR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAECAwT/xAAbEQACAwEBAQAAAAAAAAAAAAABAgADEUExMv/aAAwDAQACEQMRAD8ApPsGkeFj3Nvy9LDstqlLFxMUbKWozJ9jDo/WvrxB68j7PrUf8ibtjGJkxuPadJriECyyGOMxA8OY2P8AmT2oI65J71p+w/mLZ+29vUsVHhs7WMcQ6SskoYAccjwckj9+P96tZjyY6aR60Wbk27vH4/qrk89fq7gwIIFuetW+manyePMoOmQH3+R70dHOkkavGyujAMrKeQQfRGqDJ/PW0pKFiOXD5+1DIjJJHJREaMpHBDF2A4IOsY2duerRe1i7EclPHxSeVF5XMoihkdvrhkkA8QwA6PPBH8aFY9jvpH0sE3BUOH3Ph7mIenj5LheiLk8JmWo7ckMisfFfLkjnjrvjTq38Ub6xG0WxtLAYfKq1hLZyle2omWNFAVY/s8SvQPPvnkjjRWXoVstj5qV6PzglHBHog/gg/gjTPau/d9bNpJjkipbmxsQ4gazMYLEY/Qt2GH76TA7okqrRmNMUv5aFcfglo4ahjsnSPlZd2Mn9a4ZShkQ888cHkN+WPfGqzZ2NTMPnrc8ssONuXAGpVHaKtME7KlT/AHFAzEBeeP512zuBm3Rd+18JituV2keWU1pHs2ZC7liPNj4qOT1wAQOvXWqnG1K+NowU6cYjrwr4ov8A39ToVT2FtozFM//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYBAwcE/8QAKhAAAQMDBAEDAwUAAAAAAAAAAQIDBAUGEQASITETByJBFBWBIzJCYXL/xAAYAQEAAwEAAAAAAAAAAAAAAAABAAIDBP/EAB4RAAIBBQADAAAAAAAAAAAAAAECAAMEERIhIjFR/9oADAMBAAIRAxEAPwBk8g0DoqLmvyc6zZiokKltKKFVSU2XPKocHxp62g8bj2etBPUV92RSodJhkiZVJjUZvHOAFBSiR8gAcj+9G3qbXLBqtOoFDveEzPmhBj09O5ggq/YFJUh1kEkYAOzJ61q7Y4Jx29EN5GJxumrWzeVSp1YqaK7T4r64rzzEcNKZ8YG90JHaQorSf8E8a0tt9DjaVtqStCgFJUk5BB6I1ldJsK+kXc7TW6euNWo26RLmvLAYCFj3rLpSUFKwXBgAn3KBHB0Y9OHw03V6czPYmxIEhDMdcd1brezYDlC1gEpJz8ADHHGhHJ4Ze6oKo2Q/JFdfREvmzJ8pQTDalOtLUekrWjCM/nTR67Sm7bv1m6YNsOzXfDGkfcH31qiIcG5LSlMpAytJTgDfjODjkaDVeBGq1PehTm97DowR0Qfgg/BGrqfdN20i3JFt1KFT7ut91oshuY8WH0oP8SrkHHGD3nnQ657G3rBRgnEU7c9Xb+qFbfjvh2vCstllVKW37HE7Fbg0EYU37c8jOezk412en8NqDJr6oyH24xlpYbS8+HlDxICVDeEpCgFZAOBwNU0eBWojswUdDNsxJbSWHVsPfUzPEM/ppe2jYDnkj3HAyTpjp0SPTYLMOG2G2GU7Up7/ACT8k951EUjpjc1lYap6n//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Bull - Crash Zone</div>
-                                                <div class="unlocked">6 Feb 2025</div>
+                                                <div>Lich - Crash Zone</div>
+                                                <div class="unlocked">7 Feb 2025</div>
                                             </div>
-                                            <div class="description">Win a run with Bull in Crash Zone</div>
+                                            <div class="description">Win a run with Lich in Crash Zone</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+32 others...</div>
+                                            <div class="description ellipsis">+36 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2512,7 +2512,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Feb 2025, 18:14:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Feb 2025, 19:11:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
