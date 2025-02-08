@@ -2459,15 +2459,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAABwUGAAQIAQP/xAAxEAABAgUDAwIEBQUAAAAAAAABAgMABAUGEQchQRIxUWFxFCIyUggTFUJiIyWhscH/xAAaAQADAAMBAAAAAAAAAAAAAAADBAUAAQIG/8QAKREAAQMEAQEHBQAAAAAAAAAAAQACAwQFERIhMRQiNFFxgfAkMkJhkf/aAAwDAQACEQMRAD8A5VhJ083pKh/IwbGEjTxJ/SlH+RgM/wBirWXxPsVZ1oPUCeO8fBIznOxB29I23RkJIO4/zEhaNDeuK5ZSmtD+m6vDyvtTCjeV6iYBmXHoOSoRQBwM5X5jZbX9IP0/9ib1EtldoXN8CvJlCkFtzyTEAhQCt+Y24EcFcQSteN2ngqKvc/2J72gnEKt6qBobw9IKhDNPw1efvpBqBjyXsJumiUqpK8/cYMjCfpsM0deO/UYypOGLVhGasehVoeKUoURsIf8AQ+1kUCguVqpgImJgblY+lHBgn03tpy57oZZKSqVlyFvHjEK2utzooVsJodPWBMTCA0oJ7oRjYwGFoA3Kq3aYyvbSR9T1/QUnq3bUtedouTdPKXZuVBWypP7j4jlptakqLbuy0qLa08gjvDr+HW7ctuW5UXepafnaUs56ieIp2ulnqt66E1KUbKZCcVjPAX3MdvAcNwkaRzqaU0zvZEl3jNFe8Ygz4hPvBPTQ3vUQYcQSA91KXgETDPksMJ2m5UKOspH7j/uDHiF3SlrrormRyYHWHWPKJYT9WPQrrHRelSFNtND8q82884SXXRx6H2gn1mRQXq69NMzqp2pKHThCz0ox5ERDM1O0+WelpebcZaeTjCVEA+0Vwya1FbiwouZ3UrcmExVNcwNAVlluc2odO5+c/OVPaYtUE1+VeqU0uQnGV9TbqlkJUfGI6H1EpshWbLmW551sJ/Ky28rsD5EcrMSC3XglKfl755EWp6cqBpSKc7NuqlkbgKUSY32tsY1I6odRbzNK2UPxg/MI6vqXDVvzCEkKSglIV5A5gjhov9ARbD3sYFx2hmidszKlXzxA9F732ENWjjSV26tR2V1qECohCse9ZS3aIZZ2XW471E7HzGV0bpItWDJS9qnbBPu84GEyONpOAobiNN5OAUgpHvBbUdU5x1R+DZDY46gDFZn7yq84sqcfCc/aMROjt8v5cK6+907R3ckp5bclJZoiZdQ0fJMQ9SuujSoKVTjasesA8xUZyYPU9NOq9OsxqKKlH5iT7mGW20Zy5ynPvjs5Y3+pKvK8ZCpUlyUlkkk53zBpGERmNofihbC3VqlVNU+pdvJ1X//Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHQAAAQQDAQEAAAAAAAAAAAAACAAFBgcBBAkCA//EADEQAAEDBAAEBAMIAwAAAAAAAAECAwQABQYRBxIhMSJBUWETFHEIFSMyUmKRsUKBwf/EABgBAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAIxEAAgICAgIBBQAAAAAAAAAAAAECAwQREiEFMWEyM0FRcf/aAAwDAQACEQMRAD8AFXvWRWPOvSUlagBQC6CkrvVg2XELY5GSuZIDjikg8qVapyOHWU/4Og+66ySzK09Har8DlWR5dLfyVxBtsicCYyCsj0r4SY7sZ0tvoKV+hqw5OGMDZgylsL8hzGo/c8VuaFbKvmPcd6nDJrl6ZRd4jLp9x2vjsi+vesDvW3NgyYh1JZUj61qjp1q9Pa6OdKEoPUkLp23UitNpgGGJNykBvZ8KN6JqPK/aPCKn0WDFtPD9F4lDnny3FNMpX1Cddjqozi5LSei2iyNcuUo8v6M6HY0aQh23tynEpP6yQad1ZNcSAPu94a7eHvUq4c3+/Qbha2nrRDnRJjgbCEsJ5v5oxouK2R2Iyt21RkLUgKUktjYJHaoOiEvq7NEPJX1/afFP9AEqyyYlQLsJ0Ad/DX2YzRB8LiFJ9jR0XXELJ8jIW1Z4zjyUEpQG07NBRmGQO3XJX7TFsrMd1Lqmw2G0hR0ai8Wp/gtj5nLj3y2NN9uMO729wocQFoG0jz3UHPTuQauC0cO41zwG6XuQlTMiMFcqQdeIGqfUOVak+h1VldarWkZsvLllSU5rTPPl/wBoi8ow+FI+z1bLo88GpUZxS0D9fTtQ6fTtRs8CnIOdcF12Z8tF5PMgpWN8nbRqwyFd8DOH86NjsrLFSVPLZb5ozRJISoe1as7iZxVNqfcSyhiKh5aQ6truAaIPgxElW7GnrXcYwQph9xKfDpKkb6dKf8sw205NaTbp7JbY2VD4B5Op+lACXj3G3iFb5PM+2idHT+fka8qdMn4I3m+3FnIbdK+XbnAPL3vmSVdTo1e2D8G8fxO7vzY4cf8AiJCQh5XOka9jUvyGY2zG+VYCQe2kjQFAUVkdnbwrg7cYCXC4sNFS1E72T3oRFK5lKUe560T/ANpbI2oWPtWdlW35BIc6+RoXvf8AigEO1WJwW4jSeH+SIkKKlwHSEvtg+VV4AN6B/wB0hry7j1oDpNiOc45k8Vt60z2FLWAVIB0QfSpQpaEp5itIT6k1y6hXGZAUFwpb7Cgd/hrKf6qSo4jZShkN/ez5SB2Kzv8AugOgl4v7MVo/CcR07q2NCqYzzivY7DFkKYlolz9H8NJ6g0KlwzO/z0FL9xf5f2qIqPuuLcUVurUtR81HZoB3yrIJmSXZ6fPcKlKJ5UnyHkKZ+2vWl766Uu3vQH//2Q==" alt="" />
                             <div class="about">
-                                <div class="name">Apex Legends</div>
+                                <div class="name">Brotato</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Adventure, Free To Play
+                                        Action, Casual, Indie, RPG
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2475,7 +2475,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        571 hours played
+                                        10 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2483,7 +2483,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 7 Feb 2025
+                                        Last played on 8 Feb 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -2492,32 +2492,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            12 / 12 achievements unlocked
+                                            42 / 176 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwMGCAT/xAAqEAABAwIGAQMEAwAAAAAAAAABAgMEBREABhITITFBBzNRIiRCcWGBkv/EABcBAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAeEQACAgEFAQAAAAAAAAAAAAABAwARAgQSISIxQf/aAAwDAQACEQMRAD8AyrhN9M/TudWFNT3qc7NWsbkSAlPvC9txzrS0D8kajx1c4i9Ocjql7VUq8fcZI3I8RfAcF7brnw0D/r9AnDdkGnVhvMT1caf2EwHNp4uIOh4kWLZI4SnTY3Nkj6f6lc+uuMvRpgMC1nzwQP8AUvIM2iyHpSKe7CWhO5KgqHsgn3G+9TRP70ng8WODnGm/Uyk1xGYYlZMkS3J7u226hJs2q1g3zwpGm/Iuk2V/Nx7PWUVxFOz4EbZSkbkiInkNpvYOt/LJPR/G4vwQSyW2KMwaoDtjJsg53VTw1T6o7ZlFxFlKSFGOT+KgQbtm545t2PIwr5NrklldUZqEyRHdhqTUmn2XSFqsUIKbDhxCkHrngC2Mz4t2VswoDTVNqzmlhJtGlHkxyfB8lBPjx2PIIakHkR1aixsz8jRmzMDkt+lIiOSJapeupuSXXvqSSpxtIAPDaENp6+Cb4Hs7ZrMxyRDpz+424QJMsJCDJI4CQABpbFhYebXPgDnzTmFCmnaZSXLx1H7iSODIIPQ+Gweh57PgCpYKk1yYrXWNmPgn/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUEA//EACUQAAICAQQCAgIDAAAAAAAAAAECAwQFAAYREiExQWEHExWRof/EABcBAQEBAQAAAAAAAAAAAAAAAAEDAAX/xAAfEQABBAIDAQEAAAAAAAAAAAACAAEDBBETEjFBUcH/2gAMAwEAAhEDEQA/AL/bWLL5OLGUmsTB3JZY44oxy8sjHhUUfJJPGuvfQ+zuCCr+/edtBPjcU71sLX88Xb3BDS/aRjng/RI02JtIcu38b6658EO0seepLRyV5svbxeWxUuMu14o5yj2I5gyOWAIKEj2p1T7aO/yD5HfZuSqqyWtv0Z2VfQJZyQP71a76KkpSwiZ9umzGMcjiPSMb3tGDBcNJLHWlsQw2pIge6QM4EhHHo9efP3qfvHK7AztmikG6L+KpUajUoK0ONZoo42BDEFl8EjwT78aTdzrNkoFv4+1UkYqtiJ4iw9gMCOf91OxU3GJ8nZ26xj9Z1WCxqFx45ypP5GfG7anF3Eborx5Ovia1aPHzVP2NZjXyhDcjqWB59aTRy940f12UHg/HI0dw+Lu1snPeyeRS9O9aGovWuIgscY4X0TyePnVvudalAcETAZZdFqUZTyLL/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Apex Controller</div>
-                                                <div class="unlocked">23 Oct 2023</div>
+                                                <div>Danger 4</div>
+                                                <div class="unlocked">8 Feb 2025</div>
                                             </div>
-                                            <div class="description">Win a game as a controller character</div>
+                                            <div class="description">Win a run in Danger 4</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgEBf/EACsQAAEDAgQFBAIDAAAAAAAAAAECAwQFEQAHITESE0JRUgYiQXFykSMyQ//EABgBAAIDAAAAAAAAAAAAAAAAAAABAgME/8QAGhEAAgMBAQAAAAAAAAAAAAAAAgMAARESIv/aAAwDAQACEQMRAD8AlXCplZ6CTLej1WutBTahzYkNwaOj4ccHh2T1fjvpyfyxk1qRDqtVhPLgrcSGm+WVJsf9XR4AahPV+O63Jp0qjVMqlNv8CnlJD7qOHmja/wCrbYzPbdVyMqcywHag/mn6CTHekVShMpRwpLsuE2NED5dbHh3T07j27E+K2ZgS6vUSuG0+oIdSOa0m5a1sD+r4K848r5FHkzarSIbyYTbig8gNcKCBrzWh47kpH9dx7dkhu1yUEssx25zcrMw3KVJhQKu+RHYWkxZC1qCWiDo25bds990/WmGin8uqVXjnyWWVqkAqjuLUeLiN7JtcWN9Df5GJGwkZc+uVQVR6bVpBbZQQIssnVg30So+F9j0/WJNVvoY2B1HGrIaptUUYElp1YfPBGaUsFNjcBWwsLam+BvNbMVyqy50GkPfxSFky5Da1FLl92277N9zur63yZjeulzFSKbSpBcQ4SJcwHV7uhB8O56vrc1wKVnooAFDP/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABgMFBwIE/8QALRAAAQQBAwQBAgUFAAAAAAAAAQIDBAUGABESEyExQQcicRUyM0KBUZGSscH/xAAYAQACAwAAAAAAAAAAAAAAAAAAAQIDBP/EABwRAAIDAQEBAQAAAAAAAAAAAAEDAAISEQQhIv/aAAwDAQACEQMRAD8ASdT7f31R0reTZ5PdZwxUSHVtKKFWkpsudRQOx6afHEHtyPk+NVGfy5KquNU16lJm28hMJtSfKUq/Or/H/etGeyh3EsVrIHxnFg3RjbtTUsNuSS24lKemxxa7oK/qAcV9IKTv51Yy+Zj86Rb9GHckx3Mfj+Kmzvp0W/oQQJT8aMWXoe525lA3CkA+fY869rbyHG0rbUlaFAKSpJ3BB8EaZZVmlub2DGiVcSXjDzaW7F1Ses0gFSkyUuPJVwa6SRuQoHluQNtZDiEuAl26q6eYmZV1s5bUJ5Kid46hzQnc9907lP8AGktnSRH6EgDQlbkDrbGa4dMmHjBRJeYcUTsApxvinv6++mGevQ/iOklMY7aTX7m0r2xFlS3EDoRmXm0oYb4pG52dc7nc7JJ9aP28CNbV70KcjqMOjYjwQfRB9EakqMlyeirzWWFVT5jVhkx2zYENyEtEgltSiCFJ3AP8aL06dckktArkwV8T5FJiWDeJy+vOx+3kFFhDZ3Kh1emhLiSAVJKVfVuNt9u+lVJFixMpzFyuekPwVWamWn5DpcW8WxxWsq/duvl313+K5E/XuVlHX0+EU7366Kgc5Tw9gu+vuO+p66JHroLMSGgNsMp4pT/0/wBT730Vp90YOaDXIn//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Apex Support</div>
-                                                <div class="unlocked">22 Oct 2023</div>
+                                                <div>Creature - Crash Zone</div>
+                                                <div class="unlocked">8 Feb 2025</div>
                                             </div>
-                                            <div class="description">Win a game as a support character</div>
+                                            <div class="description">Win a run with Creature in Crash Zone</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+10 others...</div>
+                                            <div class="description ellipsis">+40 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2528,7 +2528,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Feb 2025, 13:12:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Feb 2025, 14:17:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
