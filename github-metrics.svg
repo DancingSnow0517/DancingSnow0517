@@ -2354,7 +2354,7 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAECBwQFCAMG/8QALhAAAQMDAwIDBwUAAAAAAAAAAQACAwQFEQYhMQcSIkFRExQyM0JhgRUjJFJx/8QAGwEAAgMBAQEAAAAAAAAAAAAAAQIAAwUGBwj/xAAlEQACAgEDAwQDAAAAAAAAAAABAgADEQQFIRIiMQYUMkFRgaH/2gAMAwEAAhEDEQA/AK6KEIXHT6OJwYwM7uSPaTkZTxk4UoIpJ5RFC3JRUZMR8DubwJHJbxwg7hTnikp5O2Qbrz4eCeFGGDArgnK+DBMJHlMKHkSwD8xIQhCHgnMYwSGnnyVodDNKG9Xk3SqZ/Ep/lgjZzhzn1Vc2mhmuVxgoaVpdNO7tacLqOkjpOn+iA8BrfYx97vu7zWloaOs5M431Vuhqq9pV8mladetINoZ4rzQxgNee2RrRs0Dzwqc9CfqXWVBW2/qHpGZ7cOinBYc/SQuYdS2iexXupoakESMcTjHDM7FHXUdHIlPpTdCyezu+SzVlNqR+3CY5WZO3PPAix4Mu5Q44w53CiSXYJWRSmP3lnvXy8hOB3Slnwh48S6OgWlsl98rIw4O8MII+EjzWr68atFwuos1NIfZU3jcW8OJ5BVs2C/2Km0hFVw1ETKNkQa9zTgAgbrn/AF/frXX18kdjpXNa9xL5pMO7/wDCte1wtWBPN9rFmu3U6i1DgfybPonq39C1BHQVLyKasPs2/wBWlfededKtuFtF8tzP34RmYgfEzyVS6HvVuttxZFdaQvp87O27mH1yukH6lsNdpZ1SaiOWgEfa852AA80NO4akq0bfFs0e5pqqUP6+5yOMOHofRNp3w5ZN4dA+51LqQgxOlcW49M7LGxlwDlksoziei12dSK2PMWEEA87poSS4j6kxUTCEwtmlEJ5jDvCfwoDA4SwjCdmJGDESutDhRzGcFTbUTNhMTZpWwnmMO8J/CgAghBWIOBJZXW3zEiBvspFDeUyoc9UcDt4n/9k=" alt="" />
                             <div class="about">
                                 <div class="name">Apex Legends</div>
                                 <div class="infos">
@@ -2498,7 +2498,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Mar 2025, 16:16:28 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Mar 2025, 17:13:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
